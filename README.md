@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+# A simple scratch & win game. You need to scratch and find the exact location of money.
+# You can reset the game or can scratch all locations at once by clicking the buttons.
+
 ![4y42v3](https://user-images.githubusercontent.com/57484386/107956553-4d3cc200-6fc5-11eb-962e-b20d5ba8c128.gif)
 
 ## Getting Started
